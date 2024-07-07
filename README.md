@@ -14,3 +14,34 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## About Me
+
+Hello My name is Kishore Bathula. I am from Cognizant, studying Scaler.
+
+I have a huge interest in Application Development  and AI/ML. Currently studying [Technologies/Languages you're learning].
+
+Currently Working in cognizant, and as Technical lead.
+
+I love to [Your Hobbies/Interests] and [Your Hobbies/Interests]!
+
+## Skills
+
+* [Python]
+* [PowerApp]
+* [Excel VBA]
+
+## Tools
+
+* [Tool 1]
+* [Tool 2]
+* [Tool 3]
+
+## How to reach me
+
+* Twitter: [[Your Twitter Handle](https://x.com/kishorebathula)]
+* LinkedIn: [[Your LinkedIn Profile](https://www.linkedin.com/in/kishore-bathula/)]
+* Instagram: [Your Instagram Profile]
+
+## Fun fact
+
+* [Your Fun Fact]
